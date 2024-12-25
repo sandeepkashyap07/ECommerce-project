@@ -19,6 +19,7 @@ function AdminDashboard() {
         dispatch(getFeatureImages());
         setImageFile(null);
         setUploadedImageUrl("");
+        
       }
     });
   }
